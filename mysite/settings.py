@@ -25,8 +25,7 @@ SECRET_KEY = 'x$+a_mu0a&8f-5^di-%1l30pz*abt_$9hkhg&b%z^*cicos2nc'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost', '*',
-                 'https://jzermandjangogirls.herokuapp.com/']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', '*', '.pythonanywhere.com', 'https://jzermandjangogirls.herokuapp.com/']
 
 
 # Application definition
